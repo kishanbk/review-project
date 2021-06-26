@@ -1,3 +1,10 @@
+# Dependency Required
+# Use npm
+npm install react-scroll-motion
+
+# Use yarn
+yarn add react-scroll-motion
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
