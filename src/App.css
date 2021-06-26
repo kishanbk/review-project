@@ -1,0 +1,48 @@
+*{
+  font-family: 'Dela Gothic One', cursive;
+}
+
+#pg1{
+  background-image: url(./img/img-1.jpg);
+  background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#pg2{
+  background-image: url(./img/img-2.jpg);
+  background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#pg3{
+  background-image: url(./img/img-3.jpg);
+  background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#pg4{
+  background-image: url(./img/img-4.jpg);
+  background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#pg5{
+  background-color: black;
+  color: white;
+}
+button{
+    padding: 2rem 3rem;
+    background: #0d5ab8;
+    border: none;
+    color: white;
+    font-size: 2rem;
+    cursor: pointer;
+}
+button:hover{
+  background: #063d1d;
+  font-size: 2.6rem;
+  
+}
+#terms{
+  text-align: center;
+}
